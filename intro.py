@@ -22,6 +22,7 @@ def choose_mode():
 4. Le jeu se termine lorsque toutes les cartes sont visibles.
 5. Appuyer sur la touche "Entrée" pour changer le mode de difficulté
 6. Appuyer sur "Echap" pour terminer
+7. Une autre partie recommence a la fin
         """,
         width="60",
         bg="misty rose",
