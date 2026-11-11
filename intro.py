@@ -21,8 +21,8 @@ def choose_mode():
 3. Sinon elles seront masquées.
 4. Le jeu se termine lorsque toutes les cartes sont visibles.
 5. Un écran de victoire s'affiche
-6. Press ENTER to change mode.
-7. Press ESCAPE to exit.
+6. Appuyer sur la touche "Entrée" pour changer le mode de difficulté
+7. Appuyer sur "Echap" pour terminer
         """,
         width="60",
         bg="misty rose",
