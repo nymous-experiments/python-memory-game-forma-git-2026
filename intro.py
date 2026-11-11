@@ -20,9 +20,9 @@ def choose_mode():
 2. Si les deux cartes sont identiques, elle resteront face visibles.
 3. Sinon elles seront masquées.
 4. Le jeu se termine lorsque toutes les cartes sont visibles.
-5. Appuyer sur la touche "Entrée" pour changer le mode de difficulté
-6. Appuyer sur "Echap" pour terminer
-7. Une autre partie recommence a la fin
+5. Un écran de victoire s'affiche
+6. Appuyer sur la touche "Entrée" pour changer le mode de difficulté
+7. Appuyer sur "Echap" pour terminer
         """,
         width="60",
         bg="misty rose",
